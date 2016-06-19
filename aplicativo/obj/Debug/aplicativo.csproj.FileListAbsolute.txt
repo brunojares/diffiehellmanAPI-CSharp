@@ -1,0 +1,12 @@
+C:\Users\jares\Desktop\tstDiffHelman\aplicativo\bin\Debug\aplicativo.exe.config
+C:\Users\jares\Desktop\tstDiffHelman\aplicativo\obj\Debug\aplicativo.csprojResolveAssemblyReference.cache
+C:\Users\jares\Desktop\tstDiffHelman\aplicativo\bin\Debug\aplicativo.exe
+C:\Users\jares\Desktop\tstDiffHelman\aplicativo\bin\Debug\aplicativo.pdb
+C:\Users\jares\Desktop\tstDiffHelman\aplicativo\obj\Debug\aplicativo.exe
+C:\Users\jares\Desktop\tstDiffHelman\aplicativo\obj\Debug\aplicativo.pdb
+F:\tstDiffHelman\aplicativo\bin\Debug\aplicativo.exe.config
+F:\tstDiffHelman\aplicativo\obj\Debug\aplicativo.exe
+F:\tstDiffHelman\aplicativo\obj\Debug\aplicativo.csprojResolveAssemblyReference.cache
+F:\tstDiffHelman\aplicativo\bin\Debug\aplicativo.exe
+F:\tstDiffHelman\aplicativo\bin\Debug\aplicativo.pdb
+F:\tstDiffHelman\aplicativo\obj\Debug\aplicativo.pdb
